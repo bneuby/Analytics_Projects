@@ -6,7 +6,7 @@
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
 
-Data hails from my [SQL Course](https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
+Data hails from an awesome [SQL Course](https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
 
 ### The questions I wanted to answer through my SQL queries were:
 
@@ -56,7 +56,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
 ![Top Paying Roles](assets/1_top_paying_roles.png)
-*Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
+*Bar graph visualizing the salary for the top 10 salaries for data analysts; I created this graph in a simple Excel worksheet*
 
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
@@ -95,7 +95,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
 ![Top Paying Skills](assets/2_top_paying_roles_skills.png)
-*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
+*Bar graph visualizing the count of skills for the top paying jobs for data analysts; I created this graph using a pivot table in Excel*
 
 ### 3. In-Demand Skills for Data Analysts
 
@@ -222,9 +222,9 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
 
-- **🧩 Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
-- **📊 Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
-- **💡 Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
+- **🧩 Complex Query Crafting:** Developed expertise in advanced SQL, merging tables effectively and utilizing WITH clauses for efficient temporary table management.
+- **📊 Data Aggregation:**  Showcased GROUP BY, using aggregate functions like COUNT() and AVG() to summarize data effectively.
+- **💡 Analytical Wizardry:** Enhanced my problem-solving abilities, transforming questions into actionable and insightful SQL queries.
 
 # Conclusions
 
